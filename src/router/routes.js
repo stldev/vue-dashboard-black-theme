@@ -37,11 +37,11 @@ const routes = [
         name: "icons",
         component: Icons
       },
-      {
-        path: "maps",
-        name: "maps",
-        component: Maps
-      },
+      // {
+      //   path: "maps",
+      //   name: "maps",
+      //   component: Maps
+      // },
       {
         path: "typography",
         name: "typography",
